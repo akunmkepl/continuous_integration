@@ -16,7 +16,7 @@ public class CodeIntegration {
         String str = "Hello, world!";
         
         // Mengonversi string menjadi huruf besar
-        String upperCaseStr = str.toUpperCase();
+        String upperCaseStr = str.toUpperCases();
         System.out.println("Huruf besar: " + upperCaseStr);
         
         // Mengonversi string menjadi huruf kecil
